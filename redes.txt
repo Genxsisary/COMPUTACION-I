@@ -1,0 +1,15 @@
+Génesis,1,22,1 
+Daniel,2,21,1
+Esthefania,1,21,1 
+Richards,2,27,3 
+Luca,1,5,4 
+Leandro,1,22,1 
+Alejandra,2,23,2 
+Oriana,2,12,1 
+Luis,1,24,2
+Nerva,2,54,4 
+José,1,53,3 
+Natasha,2,23,2 
+Ana,2,79,4
+Gerardo,1,82,4
+Anais,2,40,4
